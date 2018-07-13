@@ -1,0 +1,15 @@
+
+{
+  "expo": {
+   "name": "McDIR",
+   "version": "1.0.0",
+   "slug": "mwe",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.mwe.directory"
+   },
+   "android": {
+     "package": "com.mwe.directory"
+    }
+  }
+}
